@@ -1,5 +1,5 @@
 <h2 align="center"> Welcome👋 , I'm ITSTIME.<br/></h2> 
-<h3 align="center">Also known as "FBA" to other people. <br> <br>
+<h3 align="center">Also known as "ITSTIME" to other people. <br> <br>
   <a href="https://github.com/ITSTIME1" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/FahimFBA?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
