@@ -55,7 +55,7 @@ Current State Projects </h2>
 
 <div align="center">
 	
-	<h2>Flutter - FreshAppProject</h2>
+Flutter - FreshAppProject
 
 </div>
 
@@ -69,7 +69,11 @@ Current State Projects </h2>
 
 <h2>Connect with me!</h2>
  
-[<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />](https://github.com/ITSTIME1/) [<img src = "https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white>](https://www.instagram.com/tts_1114//)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100008464846819)
+[<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />](https://github.com/ITSTIME1/)
+	[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />](https://www.instagram.com/tts_1114/)
+	[<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100008464846819)
+	
+	
 <br> <br>
 
 </div>
@@ -85,18 +89,4 @@ Current State Projects </h2>
 
 ----------------------------------------------------------------------------------------------------------------------------
 	
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-<div align="center">
-	
-
-![FahimFBA's wakatime stats](https://github.com/ITSTIME1)
-
-
-</div>
-
-
-
-------
