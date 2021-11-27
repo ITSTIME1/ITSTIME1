@@ -9,15 +9,6 @@
   </h3> 
       
                
-     
-<div align="center">
-
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-</div>
 
 <h2 align="center">
 Technologies and Languages </h2>
@@ -64,8 +55,7 @@ Current State Projects </h2>
 
 <div align="center">
 	
-
-![CPU](https://img.shields.io/badge/Flutter?style=for-the-badge&logo=Flutter&logoColor=blue)
+	<h2>Flutter - FreshAppProject</h2>
 
 </div>
 
