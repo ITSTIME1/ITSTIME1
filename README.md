@@ -1,79 +1,22 @@
-<h2 align="center">👋I'm ITSTIME.<br/></h2> 
-<h3 align="center">🔥Android Developer🔥 <br> <br>
-  <a href="https://github.com/ITSTIME1" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/FahimFBA?label=Github%20followers&style=for-the-badge">
-  </a> <br> <br>
-  <a href="https://github.com/ITSTIME1" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=FahimFBA&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-  </a>
-  </h3> 
-      
-               
+<h1> Introducation <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<h2 align="center">
-Technologies </h2>
+<h3>Android Developer<br><br/>
+<h5>I like Android System and Application Clean Architecture so every day thought how i can write clean code as well as how i did face it solve problem.<br><br/>
+I usually develop "Flutter Project" this is very efficently develop one of the strengths is Intuitive UI whenever I develop it, I always see a lot of light in FrontDesign.<br><br/>
+but I do not saying I understand all about "Flutter FrameWork"
+</h5>
 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-0085CA?style=flat-square&logo=Flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-100000?style=flat-square&logo=blender&logoColor=orange)
-![Dart](https://img.shields.io/badge/Dart-0085CA?style=flat-square&logo=Dart&logoColor=white)
+--------------------------------------------------------------------------------------------------
+<h3>Have Skills</h3>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) 
 
-![VisualStudioCode](https://img.shields.io/badge/VScode-0085CA?style=flat-square&logo=VScode&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/AndroidStudio-0085CA?style=flat-square&logo=AndroidStudio&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-181717?style=flat-square&logo=Figma&logoColor=white)
-![SourceTree](https://img.shields.io/badge/SourceTree-0085CA?style=flat-square&logo=SourceTree&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-0095D5?&style=flats-quare&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-0095D5?&style=flats-quare&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Ios](https://img.shields.io/badge/Ios-000000?style=flat-square&logo=ios&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-3776AB?&style=flats-quare&logo=VisualStudioCode&logoColor=white) ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?&style=flats-quare&logo=AndroidStudio&logoColor=white) 
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![FireBase](https://img.shields.io/badge/FireBase-4285F4?style=flat-square&logo=FireBase&logoColor=white)
+ ![Firebase](https://img.shields.io/badge/Firebase-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)  ![SQLITE](https://img.shields.io/badge/SQLITE-000000?style=flat-square&logo=SQLITE&logoColor=white)
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white) ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white) ![Velog](https://img.shields.io/badge/Velog-008000?style=flat-square&logo=Velog&logoColor=white)
 
-
-<h2 align="center">
-Current State Projects </h2>
-
-<div align="center">
-	
-Flutter - FreshAppProject
-
-</div>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<div align="center">
-  
-
-
-  
-
-<h2>Connect with me!</h2>
- 
-[<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />](https://github.com/ITSTIME1/)
-	[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />](https://www.instagram.com/tts_1114/)
-	[<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100008464846819)
-	
-	
-<br> <br>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-----------------------------------------------------------------------------------------------------------------------------
-	
+---------------------------------------------------------------------------------------------------
 
