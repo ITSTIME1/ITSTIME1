@@ -7,7 +7,7 @@ but I'm not saying I understand all about "Flutter FrameWork"
 </h5>
 
 --------------------------------------------------------------------------------------------------
-<h3>Have Skills</h3>
+<h3>Skills</h3>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-0095D5?&style=flats-quare&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-0095D5?&style=flats-quare&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
