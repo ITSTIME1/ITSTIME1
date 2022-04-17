@@ -9,7 +9,7 @@ but I'm not saying I understand all about "Flutter FrameWork"
 --------------------------------------------------------------------------------------------------
 <h3>Skills</h3>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-0095D5?&style=flats-quare&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-0095D5?&style=flats-quare&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-0095D5?&style=flat-square&logo=java&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-0095D5?&style=flats-quare&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-0095D5?&style=flats-quare&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-3776AB?&style=flats-quare&logo=VisualStudioCode&logoColor=white) ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?&style=flats-quare&logo=AndroidStudio&logoColor=white) 
 
