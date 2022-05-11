@@ -2,11 +2,11 @@
 
 <h3>Android Developer<br><br/>
 <h5>Hi guys. Welcome to my github I want to introducing my information and what I want to goal.<br>
-I want have an "android developer" that's mean is a varity of reasons. but one of the many reasons is leading me to become an "android developer" that reason is 
+I want have an "android developer" that's mean is a varity of reasons. but one of the many reasons is leading me to become an "android developer" that reason is <br></br>
 
 > **"I like to make my apps feel meaningful by other people using it."**
 
-<h5> I know how difficult it but I was think about there's no need to stop trying right?<br>
+<h5> I know how difficult it but I was think about there's no need to stop trying right?<br></br>
 
 >"Some people question to me Are you satisfied with your present life?"
 <h5> Then I tell that "like and fun".
