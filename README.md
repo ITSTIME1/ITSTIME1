@@ -1,9 +1,16 @@
 <h1> Introducation <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <h3>Android Developer<br><br/>
-<h5>I like Android System and Application Clean Architecture so every day thought how i can write clean code as well as everyday i did face problem.<br><br/>
-I usually develop "Flutter Project" this is very efficently develop one of the strengths is Intuitive UI whenever I develop it, I always see a lot of light in FrontDesign.<br><br/>
-but I'm not saying I understand all about "Flutter FrameWork"
+<h5>Hi guys. Welcome to my github I want to introducing my information and what I want to goal.<br>
+I want have an "android developer" that's mean is a varity of reasons. but one of the many reasons is leading me to become an "android developer" that reason is 
+
+> **"I like to make my apps feel meaningful by other people using it."**
+
+<h5> I know how difficult it but I was think about there's no need to stop trying right?<br>
+
+>"Some people question to me Are you satisfied with your present life?"
+<h5> Then I tell that "like and fun".
+
 </h5>
 
 --------------------------------------------------------------------------------------------------
